@@ -1,6 +1,6 @@
 # IOS Programming with Swift- academy.patika.dev
 
-Throughout the training, all projects were stored in this repo.
+All projects were stored in this repo throughout the training.
 
 # Data Structures and Algorithms
 
