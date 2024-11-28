@@ -1,0 +1,19 @@
+Binary-Search-Tree Project
+
+[7, 5, 1, 8, 3, 6, 0, 9, 4, 2]
+
+1. Write the Binary-Search-Tree stages of the above array.
+  We can assume that the root is 6.
+ 
+  root: 6
+
+              [6]
+            [5] [7]
+          [4]     [8]
+        [3]         [9]
+      [2]
+    [1]
+  [0]
+
+
+Comment: Root is x. The object or number of bigger than root need to be written the right of root. And additionally the object of smaller than root need to be written the left of root.
