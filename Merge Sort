@@ -1,0 +1,25 @@
+# Merge Sort
+
+[16,21,11,8,12,22]
+
+1. Write the stages of the above array according to the Merge Sort.
+
+    [16,21,11]     ,   [8,12,22]
+  [16], [21, 11]   ,  [8, 12] , [22]
+  [16], [21] ,[11] , [8] , [12] , [22]
+  [16, 21] , [8, 11] , [12, 22]
+  [8, 11 ,16, 21] , [12, 22]
+  [8, 11 , 12, 16, 21, 22]
+2. Write the Big-O notation.
+
+  Step-1 : n
+  Step-2 : n/2
+  Step-3 : n/4
+  ...
+
+  sum = 2^x= n -> x = logn
+
+  Time complexity -> O(nlogn)
+
+Note: In insertion sort, the running time was increasing because the time complexity was n2. 
+      In merge sort, we can say that the performance is clearly better because time complexity is nlogn.
