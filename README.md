@@ -5,5 +5,7 @@
 # Data Structures and Algorithms
 
   •Insertion Sort Project 
+  
   •Merge Sort Project
+  
   •Binary-Search-Tree Project
